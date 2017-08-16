@@ -1,4 +1,9 @@
 Manifest-Version: 1.0
 Class-Path: 
 Main-Class: NumOps.java
+ name: someapp
+      path: target/NumOpsWar.war
+      domain: mybluemix.net
+      instances: 1
+      memory: 512M
 
